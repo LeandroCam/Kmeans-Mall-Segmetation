@@ -8,7 +8,7 @@ from sklearn.cluster import KMeans
 file = pd.read_csv(Mall_Customers.csv')
 features = ['Age','Annual Income (k$)','Spending Score (1-100)' ]
 x = np.array(file[features])
-print(x)
+
 
 
 #####################  Plot Displot
