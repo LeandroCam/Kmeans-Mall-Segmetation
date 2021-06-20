@@ -177,11 +177,11 @@ plt.show()
 
 We can see a cleary segmentation of our public, based on spending score vs Annual income we have five groups.
 
-Cluster 1 (Blue Color) -> earning high but spending less
-cluster 2 (Green Color) -> average in terms of earning and spending 
+Cluster 1 (Blue Color) -> earning high but spending less.
+cluster 2 (Green Color) -> average in terms of earning and spending. 
 cluster 3 (Black Color) -> earning high and also spending high.
-cluster 4 (Red Color) -> earning less but spending more
-Cluster 5 (Gray Color) -> Earning less , spending less
+cluster 4 (Red Color) -> earning less but spending more.
+Cluster 5 (Gray Color) -> Earning less , spending less.
   
 Armed with this understanding we can delivery our message for greatest impact.  
   
