@@ -208,9 +208,7 @@ plt.show()
 ```
 
 
-    
-![ELbow2](https://user-images.githubusercontent.com/83521233/122688507-f6552c80-d1f2-11eb-9f52-6e944e51745f.png)
-    
+![ELbow2](https://user-images.githubusercontent.com/83521233/122689755-78e1ea00-d1fb-11eb-98d1-3ae7968e319f.png)
 
 
 
