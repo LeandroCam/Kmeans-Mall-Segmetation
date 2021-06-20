@@ -171,11 +171,11 @@ plt.show()
 
 
 ```
-![png](Kmall_files/Kmall_13_0.png)
+![Cluster1](https://user-images.githubusercontent.com/83521233/122688502-f2c1a580-d1f2-11eb-85e7-9b533708a160.png)
     
 
 
-We can see a cleary segmentation of our public based on spending score vs Annual income we have five groups.
+We can see a cleary segmentation of our public, based on spending score vs Annual income we have five groups.
 
 Cluster 1 (Blue Color) -> earning high but spending less
 cluster 2 (Green Color) -> average in terms of earning and spending 
@@ -209,7 +209,7 @@ plt.show()
 
 
     
-![png](Kmall_files/Kmall_16_0.png)
+![ELbow2](https://user-images.githubusercontent.com/83521233/122688507-f6552c80-d1f2-11eb-9f52-6e944e51745f.png)
     
 
 
@@ -239,7 +239,7 @@ plt.show()
 
 
     
-![png](Kmall_files/Kmall_17_0.png)
+![CLuster2](https://user-images.githubusercontent.com/83521233/122688503-f48b6900-d1f2-11eb-873b-5b826dabaa02.png)
     
 
 
