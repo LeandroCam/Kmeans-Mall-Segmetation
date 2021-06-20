@@ -68,7 +68,7 @@ plt.show()
 
 
     
-![png](Kmall_files/Kmall_5_1.png)
+![age](https://user-images.githubusercontent.com/83521233/122688118-ce64c980-d1f0-11eb-996b-6d56c1d4332e.png)
     
 
 
@@ -91,7 +91,7 @@ plt.show()
 
 
     
-![png](Kmall_files/Kmall_7_0.png)
+![ageincoming](https://user-images.githubusercontent.com/83521233/122688144-f9e7b400-d1f0-11eb-8ab6-c4f93a7ecf97.png)
     
 
 
@@ -111,12 +111,13 @@ plt.show()
 
 
     
-![png](Kmall_files/Kmall_9_0.png)
+![Annual Income vs Spending Score](https://user-images.githubusercontent.com/83521233/122688170-1d126380-d1f1-11eb-9499-4e51b0789f71.png)
     
 
 
 We have a very good image of who is our public their 'spending score' vs Annual income and their sex. 
 
+Elbow Method
 
 ```python
 features = ['Annual Income (k$)','Spending Score (1-100)' ]
@@ -139,9 +140,8 @@ plt.show()
 ```
 
 
-    
-![png](Kmall_files/Kmall_11_0.png)
-    
+![Elbow Method](https://user-images.githubusercontent.com/83521233/122688230-6f538480-d1f1-11eb-9f7c-d4ff17fd4798.png)
+   
 
 
 Looking at the data set like this, we are aren't given labels, how to choose the true number of clusters? And theres only one right number? I don't think there is one right answer, and this is part of our unsupervised learning.The figure above is one method that we can use, is called the Elbow Method. So, we're going to run K-means from one to fifteen clusters and so we end up with a curve that goes down as we increase the number of clusters, now we choose 5 clustes because that's the elbow of this curve. 
@@ -171,9 +171,6 @@ plt.show()
 
 
 ```
-
-
-    
 ![png](Kmall_files/Kmall_13_0.png)
     
 
