@@ -1,5 +1,0 @@
-![displot](https://user-images.githubusercontent.com/83521233/121052929-377c2400-c791-11eb-9ac7-c07573d50a3f.png)
-![Annual Income vs Age](https://user-images.githubusercontent.com/83521233/121052920-35b26080-c791-11eb-9105-099be34a2331.png)
-![Annual Income vs Spending Score](https://user-images.githubusercontent.com/83521233/121052922-364af700-c791-11eb-9941-940a3161f51e.png)
-![Elbow Method](https://user-images.githubusercontent.com/83521233/121052927-36e38d80-c791-11eb-9a7c-678516903365.png)
-![Clusters of customers](https://user-images.githubusercontent.com/83521233/121052924-36e38d80-c791-11eb-82bf-96c44110b8d4.png)
