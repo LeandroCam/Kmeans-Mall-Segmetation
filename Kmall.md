@@ -26,7 +26,7 @@ profile.to_file("your_report.html")
 
 ```
 
-![PR](   )
+![PFMAll](https://user-images.githubusercontent.com/83521233/122687916-6366c300-d1ef-11eb-8b51-2bf164b4f951.png)
 
 No missing or duplicates rows, no feature needing encoding, we are ready to start the analysis.
 
@@ -48,7 +48,7 @@ plt.show()
 
 
     
-![png](Kmall_files/Kmall_4_0.png)
+![Mall_Customers](https://user-images.githubusercontent.com/83521233/122688096-98274a00-d1f0-11eb-8541-5013ffeff050.png)
     
 
 
