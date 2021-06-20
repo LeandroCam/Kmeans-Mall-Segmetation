@@ -171,7 +171,7 @@ plt.show()
 
 
 ```
-![Cluster1](https://user-images.githubusercontent.com/83521233/122688502-f2c1a580-d1f2-11eb-85e7-9b533708a160.png)
+![cluster1](https://user-images.githubusercontent.com/83521233/122688580-7da2a000-d1f3-11eb-95f4-f7ec6990f187.png)
     
 
 
