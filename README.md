@@ -16,7 +16,7 @@ from sklearn.cluster import KMeans
 from pandas_profiling import ProfileReport
 
 #Load and prepare data
-data = pd.read_csv('/home/leandro/Desktop/Kmeans/Mall_Customers.csv')
+data = pd.read_csv('Mall_Customers.csv')
 features = ['CustomerID','Gender','Age','Annual Income (k$)','Spending Score (1-100)' ]
 x = np.array(data[features])
 
